@@ -1,0 +1,45 @@
+body {
+    
+    background-size: cover;
+    color: #7843e1;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+
+}
+#hero {
+    background-image: url("giphy.gif");
+    padding: 10px 0 300px 0px;
+    
+}
+h1 {
+    text-shadow: 0px 0px 5px black;
+
+}
+
+.btn{
+    padding: 6px 12px;
+    border: none;
+    background: #7843e1;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+
+}
+h3 {
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+    padding: 15px;
+}
+
+.cta{
+    border-bottom: 4px solid #7843e1;
+}
+
+#jameswebb {
+    width: 130px;
+    background-color: #563e80;
+    border: none;
+
+}
